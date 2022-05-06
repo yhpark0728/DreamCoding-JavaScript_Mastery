@@ -5,5 +5,5 @@
 
 ## 목차
 
-- [DataType](https://github.com/yhpark0728/DreamCoding-JavaScript-Mastery/edit/main/DataType/DataType.md)
-- [Operators](https://github.com/yhpark0728/DreamCoding-JavaScript-Mastery/edit/main/Operators/Operators.md)
+- [DataType](https://github.com/yhpark0728/DreamCoding-JavaScript_Mastery/edit/main/DataType/DataType.md)
+- [Operators](https://github.com/yhpark0728/DreamCoding-JavaScript_Mastery/edit/main/Operators/Operators.md)
