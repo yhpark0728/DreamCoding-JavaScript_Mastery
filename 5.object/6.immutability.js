@@ -16,9 +16,9 @@ function displayObj(obj) {
   console.log(obj);
 }
 
-const ellie = { name: 'Yongho' };
-displayObj(ellie);
-console.log(ellie);
+const Yongho = { name: 'Yongho' };
+displayObj(Yongho);
+console.log(Yongho);
 
 function changeName(obj) {
   // 이름부터 변경하는 느낌을 주도록!
