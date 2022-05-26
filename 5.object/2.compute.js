@@ -11,7 +11,7 @@ function getValue(obj, key) {
   return obj[key];
 }
 
-// console.log(getValue(obj, 'name'));
+console.log(getValue(obj, 'name'));
 
 function addKey(obj, key, value) {
   obj[key] = value;
