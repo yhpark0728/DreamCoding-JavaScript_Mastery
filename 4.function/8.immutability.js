@@ -14,9 +14,9 @@ function displayObj(obj) {
   obj.name = 'Bob'; // ❌❌❌❌❌❌ 외부로 부터 주어진 인자(오브젝트)를 내부에서 변경 ❌
   console.log(obj);
 }
-const ellie = { name: 'Ellie' };
-displayObj(ellie);
-console.log(ellie);
+const Yongho = { name: 'Yongho' };
+displayObj(Yongho);
+console.log(Yongho);
 
 function changeName(obj) {
   return { ...obj, name: 'Bob' };
