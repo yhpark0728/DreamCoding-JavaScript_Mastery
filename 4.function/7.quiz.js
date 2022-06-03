@@ -20,5 +20,5 @@ iterate(3, (num) => console.log(num));
 iterate(3, (num) => console.log(num * 2));
 
 setTimeout(() => {
-  console.log('3초뒤 이 함수가 실행될거예요');
+  console.log('3초뒤 이 함수가 실행');
 }, 3000);
