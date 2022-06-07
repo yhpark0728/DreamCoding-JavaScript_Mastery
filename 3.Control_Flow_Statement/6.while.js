@@ -17,5 +17,5 @@ while (isActive) {
 }
 
 do {
-  console.log('do-while 아직살아있다!');
+  console.log('do-while!');
 } while (isActive);
