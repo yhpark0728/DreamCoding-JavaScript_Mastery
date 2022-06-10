@@ -27,7 +27,7 @@ for (let i = 0; i < 20; i++) {
     console.log('i가 드디어 10이 되었다!');
     break;
   }
-  //console.log(i);
+  console.log(i);
 }
 
 for (let i = 2; i < 10; i++) {
