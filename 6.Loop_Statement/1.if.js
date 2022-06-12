@@ -2,7 +2,7 @@
 // if(조건){}
 // if(조건){} else{}
 // if(조건){} else fi(조건2) else{}
-let fruit = "apple";
+let fruit = "apples";
 
 if(fruit === "apple"){
     console.log("apple")
