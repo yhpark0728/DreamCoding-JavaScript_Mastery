@@ -6,7 +6,7 @@ let add = function (a, b) {
 console.log(add(1, 2));
 
 // 화살표 함수 const name = () => { }
-add = (a, b) => a + b;
+add = (a, b) => a - b;
 
 //console.log(add(1, 2));
 
