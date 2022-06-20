@@ -22,4 +22,4 @@ console.log(apple['emoji']);
 
 // 속성 삭제
 delete apple.emoji;
-console.log(apple);
+//console.log(apple);
