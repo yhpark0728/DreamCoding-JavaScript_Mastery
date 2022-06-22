@@ -18,7 +18,7 @@ apple['name'];
 // 속성 추가
 apple.emoji = '🍎';
 console.log(apple.emoji);
-console.log(apple['emoji']);
+//console.log(apple['emoji']);
 
 // 속성 삭제
 delete apple.emoji;
