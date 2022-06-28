@@ -12,8 +12,8 @@ function fullName(firstName, lastName) {
 }
 let lastName = '김';
 let firstName = '지수';
-console.log(fullName(firstName, lastName));
+//console.log(fullName(firstName, lastName));
 
 let lastName2 = '박';
 let firstName2 = '철수';
-console.log(fullName(firstName2, lastName2));
+//console.log(fullName(firstName2, lastName2));
