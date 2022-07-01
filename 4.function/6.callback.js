@@ -15,5 +15,5 @@ function calculator(a, b, action) {
   return result;
 }
 
-calculator(1, 1, add);
-calculator(1, 2, multiply);
+//calculator(1, 1, add);
+//calculator(1, 2, multiply);
