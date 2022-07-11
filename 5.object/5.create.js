@@ -27,6 +27,6 @@ const orange = new Fruit('orange', '🍊');
 
 console.log(apple);
 console.log(orange);
-console.log(apple.name);
-console.log(apple.emoji);
+//console.log(apple.name);
+//console.log(apple.emoji);
 apple.display();
